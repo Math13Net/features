@@ -33,7 +33,7 @@ seclected reality to undersant today's world
 #### []()
 
 
-### ....
+### ideas
 #### []()
 #### []()
 
