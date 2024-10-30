@@ -27,6 +27,7 @@ seclected reality to undersant today's world
 ### Ecology
 #### [The world’s energy problem](https://ourworldindata.org/worlds-energy-problem)
 #### [How many people do not have access to clean fuels for cooking?](https://ourworldindata.org/no-clean-cooking-fuels)
+#### [What are the safest and cleanest sources of energy?](https://ourworldindata.org/no-clean-cooking-fuels)
 
 ### Money
 #### [extreme poverty](https://ourworldindata.org/explorers/poverty-explorer?Indicator=Share+in+poverty&Poverty+line=%242.15+per+day%3A+International+Poverty+Line&Household+survey+data+type=Show+data+from+both+income+and+consumption+surveys&Show+breaks+between+less+comparable+surveys=false&country=BGD~BOL~KEN~MOZ~NGA~ZMB)
