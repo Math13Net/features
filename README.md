@@ -1,14 +1,12 @@
 # features
-seclected reality to undersant today's world
+seclected reality to undersant today's world from [our world in data](https://ourworldindata.org/)
 
 
 <a href="https://youtu.be/hB6bfw622fo" target="_blank"><img src="https://github.com/Math13Net/features/blob/main/dream.jpg" alt="Math TS" width="600" height="350" border="200" /></a>
 
 -----------------------------------
 
-# website
 
-## [our world in data](https://ourworldindata.org/)
 
 ### Children
 
