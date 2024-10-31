@@ -34,7 +34,7 @@ if u don't follow u dreams, who will ?
 
 
 ### Sport (out of reality range)  
-are u going to make u dreams come true or are going spend the rest of u life making money ?
+are u going to make u dreams come true or are u going to spend the rest of u life making money ?
 #### [Urban Freeride](https://youtu.be/Jk7rliZpuSs?si=44bQkPFTiPszS1v_)
 #### [Masters Agility Championships](https://youtu.be/jH2d_4XJTkY?si=78uqI_8jaYgn-YXJ)
 #### [Lost In The Rhythm](https://youtu.be/FEWi3l1ghD4?si=18yG6sbe3irHGIED)
