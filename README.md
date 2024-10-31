@@ -2,7 +2,7 @@
 seclected reality to understand today's world from [our world in data](https://ourworldindata.org/)
 
 <a href="https://youtu.be/hB6bfw622fo" target="_blank"><img src="https://github.com/Math13Net/features/blob/main/dream.jpg" alt="Math TS" width="600" height="350" border="200" /></a>  
-if u don't follow u dreams, who will ? <-- proud to say : it's HOME MADE !
+if u don't follow u dreams, who will ?
 -----------------------------------
 
 
@@ -33,7 +33,8 @@ if u don't follow u dreams, who will ? <-- proud to say : it's HOME MADE !
 #### []()
 
 
-### Sport (out of reality range)
+### Sport (out of reality range)  
+are u going to make u dreams come true or are going spend the rest of u life making money ?
 #### [Urban Freeride](https://youtu.be/Jk7rliZpuSs?si=44bQkPFTiPszS1v_)
 #### [Masters Agility Championships](https://youtu.be/jH2d_4XJTkY?si=78uqI_8jaYgn-YXJ)
 #### [Lost In The Rhythm](https://youtu.be/FEWi3l1ghD4?si=18yG6sbe3irHGIED)
