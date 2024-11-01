@@ -48,3 +48,73 @@ are u going to make u dreams come true or are u going to spend the rest of u lif
 #### [escape](https://youtu.be/1CR0QmCaMTs?si=r0Iqd6w22RQKLUam)
 #### [free climbing](https://youtu.be/AqLAaDJFuiM?si=lPnGCj3VA5ivaSWH)
 #### [Supergirl on Bike](https://youtu.be/EFD9BLgMVK8?si=QzKspOVuWu_aDrKZ)
+
+### Project (unordered - asked to ChatGPT)
+
+#### Lutter contre les stéréotypes et les préjugés  
+Lutter contre les stéréotypes favorise l’acceptation des différences, essentiel pour la cohésion sociale et le bien-être collectif (ONU). En utilisant l'IA pour identifier et analyser les discours de haine en ligne, les élèves peuvent proposer des solutions pour sensibiliser à l'impact des préjugés.
+
+#### Égalité des genres dans le milieu professionnel  
+L’égalité des genres est fondamentale pour le développement personnel et la stabilité économique (OCDE). Les élèves peuvent utiliser des outils d’IA pour analyser les écarts de salaires et mettre en avant des solutions pour encourager la mixité et l'équité professionnelle.
+
+#### Cyber-harcèlement et bienveillance en ligne  
+Le cyber-harcèlement est un problème croissant parmi les jeunes (UNICEF). En analysant des données anonymes avec l’IA, les élèves peuvent mieux comprendre les dynamiques du harcèlement et proposer des solutions pour renforcer la sécurité en ligne.
+
+#### Éco-responsabilité et empreinte carbone  
+La sensibilisation à l’environnement encourage des habitudes durables (WWF). Grâce à des applications utilisant l’IA pour calculer l’empreinte carbone de divers comportements, les élèves pourraient évaluer et proposer des moyens de réduire les impacts environnementaux au quotidien.
+
+#### Le bien-être animal  
+Prendre soin des animaux et comprendre leur importance dans l'écosystème est une valeur éducative essentielle (FAO). Les élèves pourraient développer des projets de sensibilisation sur le traitement éthique des animaux en analysant des données d’IA sur la protection animale.
+
+#### Inclusion des personnes en situation de handicap  
+La diversité et l’inclusion renforcent la société (OMS). En utilisant l’IA, les élèves peuvent proposer des technologies qui facilitent l'accès à l'information et aux services pour les personnes handicapées, comme des outils de traduction en langue des signes.
+
+#### Accès à l’éducation pour tous  
+L'éducation est un droit fondamental et universel (UNESCO). En utilisant l’IA pour simuler des solutions d’apprentissage accessible (e.g., tutoriels en ligne ou outils pour l’auto-formation), les élèves pourront explorer des méthodes pour étendre l’accès à l’éducation.
+
+#### La tolérance interreligieuse  
+La compréhension des différences religieuses encourage le respect mutuel et le dialogue (UNESCO). Les élèves pourraient utiliser l'IA pour étudier la diversité religieuse et proposer des idées pour promouvoir la tolérance.
+
+#### Gestion des déchets et recyclage  
+La réduction des déchets contribue à la durabilité environnementale (ONU). Les élèves peuvent analyser des données sur la gestion des déchets et concevoir des solutions intelligentes pour améliorer le tri et le recyclage.
+
+#### Accès équitable à l’alimentation saine  
+L’accès à une alimentation saine est un droit humain fondamental (OMS). Avec l’IA, les élèves peuvent identifier des zones à risque d’insécurité alimentaire et proposer des solutions pour améliorer l’accès à des aliments nutritifs.
+
+#### Réduction des discriminations ethniques  
+La lutte contre le racisme est cruciale pour une société juste et équitable (ONU). L’analyse de discours avec l'IA peut permettre de détecter et réduire les comportements discriminatoires.
+
+#### Le respect et la protection des droits humains  
+Connaître et défendre les droits humains aide les élèves à devenir des citoyens actifs (Conseil de l'Europe). Ils pourraient utiliser l’IA pour suivre des cas de violation des droits et sensibiliser sur leur impact.
+
+#### Précarité et pauvreté : causes et solutions  
+Comprendre les causes de la pauvreté est essentiel pour trouver des solutions (Banque mondiale). Les élèves pourraient analyser des données pour comprendre les causes de la précarité et proposer des actions locales.
+
+#### Soutien à la santé mentale chez les jeunes  
+La santé mentale est cruciale pour le développement personnel (OMS). Les élèves peuvent utiliser des chatbots d’IA pour créer des plateformes de soutien anonymes pour leurs pairs.
+
+#### L’impact des réseaux sociaux sur l’estime de soi  
+La surexposition sur les réseaux sociaux influence souvent la santé mentale (Psychologie aujourd'hui). En utilisant l’IA pour analyser les effets des médias sur l’estime de soi, les élèves peuvent promouvoir une utilisation plus saine.
+
+#### Lutte contre la désinformation et les fausses nouvelles  
+La désinformation affecte la stabilité et la sécurité sociale (UE). Les élèves peuvent travailler avec l’IA pour détecter des fake news et sensibiliser aux risques de la désinformation.
+
+#### Préservation des langues et cultures minoritaires  
+La diversité linguistique est un patrimoine mondial (UNESCO). En utilisant l’IA pour traduire et préserver des dialectes en voie de disparition, les élèves peuvent contribuer à la préservation des cultures.
+
+#### Droits et protection des enfants dans le monde  
+La protection de l’enfance est une priorité mondiale (UNICEF). Les élèves peuvent utiliser l’IA pour identifier les zones où les droits de l’enfant sont en danger et proposer des actions de sensibilisation.
+
+#### L’impact du changement climatique sur les migrations  
+Le changement climatique influence les mouvements migratoires (ONU). Les élèves pourraient utiliser des simulations IA pour comprendre les causes des migrations forcées et sensibiliser au climat.
+
+##### Soutien aux réfugiés et demandeurs d’asile  
+L’accueil des réfugiés est un sujet humanitaire crucial (UNHCR). En utilisant des données d’IA pour analyser les besoins spécifiques des réfugiés, les élèves peuvent proposer des actions pour favoriser leur intégration.
+
+
+
+
+
+
+
+
