@@ -9,28 +9,22 @@ if u don't follow u dreams, who will ?
 
 ### Children
 
-#### [child mortality rate](https://ourworldindata.org/grapher/child-mortality?time=earliest..latest)
-#### [Half of all child deaths are linked to malnutrition](https://ourworldindata.org/half-child-deaths-linked-malnutrition)
+#### [child mortality rate](https://ourworldindata.org/grapher/child-mortality?time=earliest..latest) - [Half of all child deaths are linked to malnutrition](https://ourworldindata.org/half-child-deaths-linked-malnutrition)
 #### [Average performance of 15-year-olds in mathematics, reading,and science, OECD average](https://ourworldindata.org/grapher/average-performance-of-15-year-olds-in-mathematics-reading-and-science?country=OECD+average~FRA)
 #### []()
 
 
 ### Health
-#### [pandemic and life expectancy](https://ourworldindata.org/data-insights#most-recent-data-insight)
-#### [life expancy at birth](https://ourworldindata.org/grapher/life-expectancy)
-#### []()
-#### []()
+#### [pandemic and life expectancy](https://ourworldindata.org/data-insights#most-recent-data-insight) - [life expancy at birth](https://ourworldindata.org/grapher/life-expectancy)
+#### []() - []()
 
 ### Ecology
-#### [The world’s energy problem](https://ourworldindata.org/worlds-energy-problem)
-#### [How many people do not have access to clean fuels for cooking?](https://ourworldindata.org/no-clean-cooking-fuels)
+#### [The world’s energy problem](https://ourworldindata.org/worlds-energy-problem) - [How many people do not have access to clean fuels for cooking?](https://ourworldindata.org/no-clean-cooking-fuels)
 #### [What are the safest and cleanest sources of energy?](https://ourworldindata.org/no-clean-cooking-fuels)
 
 ### Money
-#### [extreme poverty](https://ourworldindata.org/explorers/poverty-explorer?Indicator=Share+in+poverty&Poverty+line=%242.15+per+day%3A+International+Poverty+Line&Household+survey+data+type=Show+data+from+both+income+and+consumption+surveys&Show+breaks+between+less+comparable+surveys=false&country=BGD~BOL~KEN~MOZ~NGA~ZMB)
-#### [The history of the end of poverty has just begun](https://ourworldindata.org/history-of-poverty-has-just-begun)
-#### [Impossible Rallies](https://youtu.be/4Ks4fJTFTXU?si=_KgUL-B_rXQrxAzQ)
-#### []()
+#### [extreme poverty](https://ourworldindata.org/explorers/poverty-explorer?Indicator=Share+in+poverty&Poverty+line=%242.15+per+day%3A+International+Poverty+Line&Household+survey+data+type=Show+data+from+both+income+and+consumption+surveys&Show+breaks+between+less+comparable+surveys=false&country=BGD~BOL~KEN~MOZ~NGA~ZMB) - [The history of the end of poverty has just begun](https://ourworldindata.org/history-of-poverty-has-just-begun)
+#### [Impossible Rallies](https://youtu.be/4Ks4fJTFTXU?si=_KgUL-B_rXQrxAzQ) - []()
 
 
 ### Sport (out of reality range)  
