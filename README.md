@@ -1,5 +1,5 @@
 # features
-seclected reality to understand today's world from [our world in data](https://ourworldindata.org/)
+understand today's world from [our world in data](https://ourworldindata.org/)
 
 <a href="https://youtu.be/hB6bfw622fo" target="_blank"><img src="https://github.com/Math13Net/features/blob/main/dream.jpg" alt="Math TS" width="600" height="350" border="200" /></a>  
 if u don't follow u dreams, who will ?
