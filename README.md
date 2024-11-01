@@ -49,7 +49,7 @@ are u going to make u dreams come true or are u going to spend the rest of u lif
 #### [free climbing](https://youtu.be/AqLAaDJFuiM?si=lPnGCj3VA5ivaSWH)
 #### [Supergirl on Bike](https://youtu.be/EFD9BLgMVK8?si=QzKspOVuWu_aDrKZ)
 
-### Project (unordered - asked to ChatGPT)
+### Projects (unordered - asked to ChatGPT)
 
 #### Lutter contre les stéréotypes et les préjugés  
 Lutter contre les stéréotypes favorise l’acceptation des différences, essentiel pour la cohésion sociale et le bien-être collectif (ONU). En utilisant l'IA pour identifier et analyser les discours de haine en ligne, les élèves peuvent proposer des solutions pour sensibiliser à l'impact des préjugés.
